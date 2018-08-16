@@ -1,4 +1,4 @@
-# vendingmachine
+# vendingmachine - front-end
 
 > A Vue.js project
 
